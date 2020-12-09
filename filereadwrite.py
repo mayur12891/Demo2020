@@ -7,6 +7,7 @@
 # Below code will create/write a new file and read a file
 # By default it will save the file in same directory location
 # This will added to test Git.
+# This line is again added to test Git.
 my_file = open("firstfile.txt", "w")
 my_file.write("this is first line" + "\n")
 my_file.write("this is second line")
